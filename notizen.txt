@@ -6,3 +6,4 @@ git Status -> Sicht auf die Datein
 
 git add -> wird von git berücksichtigt
 
+
