@@ -6,4 +6,5 @@ git Status -> Sicht auf die Datein
 
 git add -> wird von git berücksichtigt
 
+git commit ->schließt Sicherungsvorgang ab
 
