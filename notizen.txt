@@ -11,3 +11,4 @@ git commit ->schließt Sicherungsvorgang ab
 git log
 compare & pull request = merge
  
+mit dem Befehl git fetch werden Commits, Dateien, und Verweise aus einem Remote-Respository heruntergeladen.Mit dem Befehl git Checkout explizit ausgecheckt werden 
