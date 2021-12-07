@@ -1,3 +1,8 @@
 das sind die 1. Notizen für GitHub
 
 GIT > Versionskontrollsystem
+
+git Status -> Sicht auf die Datein
+
+git add -> wird von git berücksichtigt
+
