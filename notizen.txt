@@ -8,3 +8,4 @@ git add -> wird von git berücksichtigt
 
 git commit ->schließt Sicherungsvorgang ab
 
+git log
